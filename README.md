@@ -1,1 +1,2 @@
 # stacking_exercise
+The aim of this notebook is applying common techniques that are useful when building a machine learning model. I made an extensive use of Scikit-Learn pipelines, created checkpoints to save already processed feature matrices, performed automated feature selection, used dimensionality reduction techniques (NMF and TSVD), optimized parameters with RandomSearch, abused cross-validation and implemented Stacking! I used an AWS instance to train models and CloudWatch Alarms to automatically stop the instance.
